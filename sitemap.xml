@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://quick-start-dev.github.io/</loc>
+         <loc>https://quick-start.dev/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
     <url>
-         <loc>https://quick-start-dev.github.io/exclude/</loc>
+         <loc>https://quick-start.dev/exclude/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
     <url>
-         <loc>https://quick-start-dev.github.io/functions/</loc>
+         <loc>https://quick-start.dev/functions/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
     <url>
-         <loc>https://quick-start-dev.github.io/hooks/</loc>
+         <loc>https://quick-start.dev/hooks/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
     <url>
-         <loc>https://quick-start-dev.github.io/templates/</loc>
+         <loc>https://quick-start.dev/templates/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
     <url>
-         <loc>https://quick-start-dev.github.io/variables/</loc>
+         <loc>https://quick-start.dev/variables/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
     <url>
-         <loc>https://quick-start-dev.github.io/waitlist/</loc>
+         <loc>https://quick-start.dev/waitlist/</loc>
          <lastmod>2025-07-07</lastmod>
     </url>
 </urlset>
